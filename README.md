@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ZZZINUfontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ZZZINU&fontSize=90)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
