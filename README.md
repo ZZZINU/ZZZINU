@@ -2,6 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ZZZINU&fontSize=90)
 
+<div align="center">
+  
+**Hi there! 👋**  
+I'm **Youjin** <br>
+My biggest dream is to explore the **Universe** 🚀  and go on epic space adventures. <br>
+</div>
+
 <!--내용 부분-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -9,6 +16,12 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />    
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 <br>
@@ -32,6 +45,9 @@
   <a href="mailto:nnjin987@gmail.com">
     <img
       src="https://img.shields.io/badge/nnjin987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/e_u_zin?igsh=MWljM2FzbXRjY3Bkdw==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
