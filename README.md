@@ -53,6 +53,14 @@ My biggest dream is to explore the **Universe** 🚀  and go on epic space adven
 
 <br>
 
+<a href="https://github.com/ZZZINU/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/ZZZINU/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ZZZINU/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+
 <!--
 **ZZZINU/ZZZINU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
