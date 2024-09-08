@@ -86,6 +86,17 @@ IT 연합 동아리 멋쟁이 사자처럼 12기 `프론트엔드` 트랙장
 [2024] `한국통신학회` 2024 하계 학부생 아이디어 경진대회 - `최우수상` 수상 (생성형 AI와 VR을 이용한 몰입형 외국어 학습 서비스)
 
 <br>
+<br>
+
+<!-- zzzinu's profile -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZZZINU&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZINU&layout=compact&theme=material-palenight" width="36.5%"/>
+</div>
+
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -98,19 +109,11 @@ IT 연합 동아리 멋쟁이 사자처럼 12기 `프론트엔드` 트랙장
   </a>
 </div>
 
-<br>
 
-<!-- zzzinu's profile -->
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZZZINU&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-</a>
-<a href="https://github.com/devpla/github-stats">
- <img src="https://raw.githubusercontent.com/ZZZINU/github-stats/output/generated/languages.svg" width=51% />
-</a>
 
+<!--
 ![](https://raw.githubusercontent.com/ZZZINU/github-stats/output/generated/languages.svg)
-
+—>
 
 <!--
 **ZZZINU/ZZZINU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
