@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/ZZZINU/ZZZINU/blob/main/_talkv_wtl8pkXwU0_9sF7EJPtof470TmVsKYrp1_talkv_high.gif" alt="설명 텍스트" width="700"/>
+  <img src="https://github.com/ZZZINU/ZZZINU/blob/main/pungmul.gif" alt="설명 텍스트" width="700"/>
 </div>
 
 <br>
