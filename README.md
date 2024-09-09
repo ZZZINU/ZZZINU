@@ -1,5 +1,7 @@
 ## 저를 소개합니다 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZZINU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<img src="https://github.com/cie10/ZZZINU/raw/main/유진이.png" alt="Profile Picture"  />
+
 <br>
 
 <!-- 메시지 형식의 자기소개 --> 
@@ -15,8 +17,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/ZZZINU/ZZZINU/blob/main/_talkv_wtl8pkXwU0_9sF7EJPtof470TmVsKYrp1_talkv_high.gif" alt="설명 텍스트" width="700"/>
+</div>
 
-<img src="https://github.com/cie10/ZZZINU/raw/main/유진이.png" alt="Profile Picture"  />
 <br>
 
 <!-- 가치관을 이루기 위해서는 -->
