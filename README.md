@@ -15,6 +15,9 @@
 
 <br>
 
+
+<img src="https://github.com/cie10/cie10/raw/main/유진이.png" alt="Profile Picture"  />
+
 <!-- 가치관을 이루기 위해서는 -->
 ## ⭐️ 가치관을 이루기 위해서는..
 
