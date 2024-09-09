@@ -1,9 +1,21 @@
 ## 저를 소개합니다 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZZINU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
+
+<!-- 메시지 형식의 자기소개 --> 
+![https://github.com/ZZZINU/ZZZINU/blob/main/chat.svg](https://github.com/ZZZINU/ZZZINU/blob/main/chat.svg)
 
 <br>
 
-<!--내용 부분-->
+<!-- About Me --> 
+## 👤 About Me
+
+- 롤모델 : Elon Reeve Musk
+- 좋아요 : 🎬 영화, ✈️ 여행, 🎭 풍물
+
+<br>
+
+<!-- 가치관을 이루기 위해서는 -->
 ## ⭐️ 가치관을 이루기 위해서는..
 
 - 모르는 것을 두려워하지 않고 **공부와 공유**로 채워나가기
@@ -12,6 +24,7 @@
 
 <br>
 
+<!-- Studying -->
 ## 📚 Studying 📚
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -35,6 +48,7 @@
 
 <br>
 
+<!-- Tools -->
 ## 🛠 Tools 🛠
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -49,6 +63,7 @@
 
 <br>
 
+<!-- Experiences -->
 ## 💡 Experiences
 
 **[2023]**
@@ -77,16 +92,22 @@ IT 연합 동아리 멋쟁이 사자처럼 12기 `프론트엔드` 트랙장
 
 <br>
 
+<!-- Awards -->
+
 ## 🏆 Awards
 
-[2023] 멋쟁이사자처럼 대학 11주년 해커톤 `2위` 수상 (모두의 인공지능, 모인)
+[2023] 멋쟁이사자처럼 대학 11주년 해커톤 `2위` 수상
 
-[2023] 동국대학교 IT 교육 콘텐츠 제작 공모전 `SW교육원장상` 수상 (Figma 교안 및 강의)
+[2023] 동국대학교 IT 교육 콘텐츠 제작 공모전 `SW교육원장상` 수상
 
-[2024] `한국통신학회` 2024 하계 학부생 아이디어 경진대회 - `최우수상` 수상 (생성형 AI와 VR을 이용한 몰입형 외국어 학습 서비스)
+[2024] 2024 Farm 경진대회 `대상` 수상 (크리에이터를 위한 래플 서비스)
+
+[2024] `한국통신학회` 2024 하계 학부생 아이디어 경진대회 - `최우수상` 수상
 
 <br>
 <br>
+
+
 
 <!-- zzzinu's profile -->
 <div align="center">
@@ -97,6 +118,10 @@ IT 연합 동아리 멋쟁이 사자처럼 12기 `프론트엔드` 트랙장
 </div>
 
 <br>
+
+
+
+<!-- Contact (연락) -->
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
