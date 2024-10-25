@@ -1,6 +1,6 @@
 ## 저를 소개합니다 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZZINU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github.com/cie10/ZZZINU/raw/main/유진이.png" alt="Profile Picture"  />
+<!-- <img src="https://github.com/cie10/ZZZINU/raw/main/유진이.png" alt="Profile Picture"  /> --> 
 
 <br>
 
@@ -16,11 +16,11 @@
 - 좋아요 : 🎬 영화, ✈️ 여행, 🎭 풍물
 
 <br>
-
+<!--
 <div align="center">
   <img src="https://github.com/ZZZINU/ZZZINU/blob/main/pungmul.gif" alt="설명 텍스트" width="700"/>
 </div>
-
+-->
 <br>
 
 <!-- 가치관을 이루기 위해서는 -->
