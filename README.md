@@ -1,4 +1,5 @@
-## 저를 소개합니다 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZZINU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 저를 소개합니다 👋 
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZZINU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- <img src="https://github.com/cie10/ZZZINU/raw/main/유진이.png" alt="Profile Picture"  /> --> 
 
@@ -104,15 +105,25 @@ IT 연합 동아리 멋쟁이 사자처럼 12기 `프론트엔드` 트랙장
 
 ## 🏆 Awards
 
-[2023] 멋쟁이사자처럼 대학 11주년 해커톤 `2위` 수상
+[2023] `멋쟁이사자처럼` 대학 11주년 해커톤 `2위` 수상
 
-[2023] 공과대학 X AI융합대학 2023 아이디어 경진대회 `장려상`
+[2023] `동국대학교` 공과대학 X AI융합대학 2023 아이디어 경진대회 `장려상`
 
-[2023] 동국대학교 IT 교육 콘텐츠 제작 공모전 `SW교육원장상` 수상
+[2023] `동국대학교` IT 교육 콘텐츠 제작 공모전 `SW교육원장상` 수상
 
-[2024] 2024 Farm 경진대회 `대상` 수상 (크리에이터를 위한 래플 서비스)
+[2024] `동국대학교` 2024 Farm 경진대회 `대상` 수상 (크리에이터를 위한 래플 서비스)
 
 [2024] `한국통신학회` 2024 하계 학부생 아이디어 경진대회 - `최우수상` 수상
+
+[2024] `한국디지털콘텐츠학회` 하계종합학술대회 대학생 논문경진대회 - `동상` 수상
+
+[2024] `신한금융지주회사` 신한 AI 아이디어톤 - `우수상` 수상
+
+[2024] `서울특별시장애인재활협회` 2024년 함께해요! IT 멘토링 - `우수멘토상` 수상
+
+[2025] `신한투자증권 x 알파코` 프로디지털아카데미 5기 최종 프로젝트 발표회 - `최우수상` 수상
+
+
 
 <br>
 <br>
