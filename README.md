@@ -150,9 +150,12 @@ IT 연합 동아리 멋쟁이 사자처럼 12기 `프론트엔드` 트랙장
     <img
       src="https://img.shields.io/badge/nnjin987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <!--
   <a href="https://www.instagram.com/e_u_zin?igsh=MWljM2FzbXRjY3Bkdw==">
+  
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   -->
 </div>
 
 
